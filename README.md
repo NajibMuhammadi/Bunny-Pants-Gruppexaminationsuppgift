@@ -24,6 +24,10 @@ Enligt vår analys skapades beställningsflödet steg för steg, från att anvä
 
 Vi gjorde antagningen att inloggning var valfri, vilket ger användarna flexibilitet att fortsätta som gäst. Detta beslut togs med användarvänlighet och enkelhet i åtanke.
 
+### Ni hittar den här:
+
+https://www.figma.com/file/mpmJtgaiXT68SmGLY1thdA/Grupparbete%3A-Datalogiskt-t%C3%A4nkande-p%C3%A5-Airbean?type=whiteboard&node-id=0%3A1&t=7xURZrk1grH1mVtA-1
+
 
 ---
 Datum: 2023-12-14.
