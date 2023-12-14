@@ -26,5 +26,5 @@ Vi gjorde antagningen att inloggning var valfri, vilket ger användarna flexibil
 
 
 ---
-*Datum: 2023-12-14
+Datum: 2023-12-14
 
